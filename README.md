@@ -53,6 +53,3 @@ GPL v2 or later
 For technical support or custom development:  
 - 🌐 [https://www.supersonicplayground.com](https://www.supersonicplayground.com)  
 - 📧 Levon Gravett: levon.gravett@supersonicplayground.com
-
-[![Build Status](https://img.shields.io/github/workflow/status/user/repo/CI)](https://github.com/user/repo/actions)
-[![License](https://img.shields.io/github/license/user/repo)](LICENSE)
